@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyOwnScreen</string>
+    <string name="module_description">解除 HyperOS 的系统截屏和录屏限制</string>
+    <string name="test_title">截屏与录屏测试</string>
+    <string name="test_body">本页启用了 FLAG_SECURE。用系统截屏键截图，或从控制中心开始录屏。若保存结果能看到这段文字和下方计数，说明对应的捕获路径可用。</string>
+    <string name="test_counter">计数 %1$d</string>
+</resources>
